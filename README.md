@@ -12,6 +12,8 @@
  npm install
  
  npm run serve
+ 
+ # acessar via browser http://localhost:8080
  ```
  
 ## Notas
