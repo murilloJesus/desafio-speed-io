@@ -3,7 +3,7 @@
 ## Instalação
 
 ```bash
- # no terminal de sua preferencia
+ # no terminal de sua preferência
  
  git clone https://github.com/murilloJesus/desafio-speed-io
  
