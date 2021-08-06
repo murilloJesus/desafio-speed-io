@@ -1,4 +1,4 @@
-# Desafio SpeedIO
+# Desafio Speed.IO
 
 ## Instalação
 
